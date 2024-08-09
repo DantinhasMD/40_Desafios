@@ -1,7 +1,7 @@
 # 40 Desafios Web
 Desenvolvimento dos fundamentos na programação Web. Serão 40 desafios, de maneira com que o HTML, CSS E JAVASCRIPT sejam desenvolvidos e aperfeiçoados em cada fase
 
-Projetos Iniciantes 
+# Projetos Iniciantes 
 ### 1. Página de Destino (Landing Page)
 **Descrição**: Crie uma página simples de destino para um produto ou serviço. Esta página deve ser visualmente atraente e incluir uma chamada para ação (CTA) clara.
 **Funcionalidades**:
@@ -83,5 +83,3 @@ Projetos Iniciantes
 - Lista de serviços com títulos, descrições e ícones ou imagens representativas.
 - Seção de preços (opcional).
 - Botões de chamada para ação para mais informações ou para contratar os serviços.
-
-Esses projetos oferecem uma excelente oportunidade para praticar e consolidar seus conhecimentos em HTML, CSS e JavaScript, enquanto criam algo visualmente atraente e funcional.
