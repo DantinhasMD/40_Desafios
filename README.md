@@ -3,8 +3,8 @@ Desenvolvimento dos fundamentos na programação Web. Serão 40 desafios, de man
 
 # Projetos Iniciantes 
 Projetos simples utilizando Fundamentos Simples.
-Para o HTML: Tags, Links, Imagens, Listas, Tabelas, Formulários e tags Semânticas
-Para o CSS: Seletores básicos, Box Model, Cores, Fundos, Tipografias, Display, Posicionamento e Flexbox
+1. Para o HTML: Tags, Links, Imagens, Listas, Tabelas, Formulários e tags Semânticas.
+2. Para o CSS: Seletores básicos, Box Model, Cores, Fundos, Tipografias, Display, Posicionamento e Flexbox.
 
 ### 1. Página de Destino (Landing Page)
 **Descrição**: Crie uma página simples de destino para um produto ou serviço. Esta página deve ser visualmente atraente e incluir uma chamada para ação (CTA) clara.
